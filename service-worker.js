@@ -1,4 +1,4 @@
-const CACHE_NAME = "slider-cache-v1";
+const CACHE_NAME = "grip2-cache-v1";
 const FILES_TO_CACHE = [
   "/",
   "/index.html",
